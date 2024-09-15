@@ -1,7 +1,9 @@
 <h1 align="center">Alexander Salvador</h1>
 
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB8500&center=true&vCenter=true&width=500&lines=Front+End+Web+Developer;Lover+of+creativity+and+brilliant+ideas)](https://git.io/typing-svg)
+</div>
 
 <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
