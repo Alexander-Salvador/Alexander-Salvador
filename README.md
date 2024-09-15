@@ -1,4 +1,4 @@
-<div style="text-align: center;" id="badges">
+<div style="text-align: center;">
   <h1 style="color: #fb8500;">Alexander Salvador</h1>
 </div>
 
@@ -12,7 +12,9 @@
 
 ---
 
-<h2 style="text-align: center; color: #fb8500">Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
+
+<!-- #fb8500" -->
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
