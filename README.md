@@ -1,11 +1,13 @@
-<h1 align="center">Alexander Salvador</h1>
+<h1 style="text-align: center; color: black;">Alexander Salvador</h1>
 
-<div align="center">
+<p align="center" dir="auto">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" style="max-width: 100%;"></a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB8500&center=true&vCenter=true&width=500&lines=Front+End+Web+Developer;Lover+of+creativity+and+brilliant+ideas)](https://git.io/typing-svg)
-</div>
 
-<div align="center">
+<div style="text-align: center;" id="badges">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="# target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
   <a href="#" target="_blank"><img href="https://www.ejemplo.com" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Twitter Badge"/></a>
@@ -13,9 +15,7 @@
 
 ---
 
-<h2 align="center">Languages and Tools</h2>
-
-<!-- #fb8500" -->
+<h2 style="text-align: center; color: #fb8500">Languages and Tools</h2>
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
