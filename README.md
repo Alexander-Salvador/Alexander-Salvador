@@ -1,8 +1,8 @@
 <h1 align="center", color="black">Alexander Salvador</h1>
 
 <p align="center" dir="auto">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Alexander Salvador" style="max-width: 100%;"></a>
+  <a href="https://github.com/Alexander-Salvador">
+    <img src="As-Logo.png" alt="Alexander Salvador" style="max-width: 100%;"></a>
 </p>
 
 <div align="center">
