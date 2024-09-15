@@ -2,7 +2,7 @@
 
 <p align="center" dir="auto">
   <a href="https://github.com/Alexander-Salvador">
-    <img src="As-Logo.png" alt="Alexander Salvador" style="max-width: 100%;"></a>
+    <img src="As-New.png" alt="Alexander Salvador" style="max-width: 100%;"></a>
 </p>
 
 <div align="center">
