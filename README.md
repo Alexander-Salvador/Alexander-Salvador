@@ -1,4 +1,4 @@
-<h1 align="center, #fb8500;">Alexander Salvador</h1>
+<h1 align="center">Alexander Salvador</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB8500&center=true&vCenter=true&width=500&lines=Front+End+Web+Developer;Lover+of+creativity+and+brilliant+ideas)](https://git.io/typing-svg)
