@@ -1,10 +1,5 @@
 <h1 align="center", color="black">Alexander Salvador</h1>
 
-<p align="center" dir="auto">
-  <a href="https://github.com/Alexander-Salvador">
-    <img src="Alexander-Salvador.png" alt="Alexander Salvador" style="max-width: 100%;"></a>
-</p>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB8500&center=true&vCenter=true&width=500&lines=Front+End+Web+Developer;Lover+of+creativity+and+brilliant+ideas)](https://git.io/typing-svg)
@@ -19,7 +14,7 @@
 
 ---
 
-<h2 style="text-align: center color: black">Languages and Tools</h2>
+<h2 align="center", color: black">Languages and Tools</h2>
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
