@@ -28,16 +28,13 @@ Main languages: CSS, HTML & JavaScript.
 🌐 Career Aspirations
 I'm passionate about developing full-stack applications for Machine Learning.
 
-<h2>📌 Availability</h2>
+📌 Availability
 <p>I'm currently open to new opportunities, whether it's an <b>internship</b> or a <b>full-time role</b>. Check out <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">my resume</a>.</p>
 
 
 </pre>
 
 <br><br>
-
----
-
 <!-- SKILL SECTION -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -110,8 +107,6 @@ I'm passionate about developing full-stack applications for Machine Learning.
 </div>
 
 <br>
-
----
 
 <br><br>
 
