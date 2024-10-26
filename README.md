@@ -6,46 +6,158 @@
 
 </div>
 
-<div align="center">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="# target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
-  <a href="#" target="_blank"><img href="https://www.ejemplo.com" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Twitter Badge"/></a>
-</div>
+<!-- DESCRIPCION PERSONAL  -->
+
+
+<pre>
+
+👨‍💻 Frontend Developer
+
+I'm a frontend developer with a deep passion for design and web architecture.
+
+🎓 Education
+I hold a Bachelor's degree in Computer Science from Cadi Ayyad University in Morocco.
+
+💡 Interests
+- I have a strong interest in Data Science and Artificial Intelligence, diving deep into Deep Learning and Machine Learning.
+- Currently, I'm expanding my knowledge in Computer Vision and Machine Learning applications.
+
+## 🛠 Skills
+Main languages: CSS, HTML & JavaScript.
+
+🌐 Career Aspirations
+I'm passionate about developing full-stack applications for Machine Learning.
+
+<h2>📌 Availability</h2>
+<p>I'm currently open to new opportunities, whether it's an <b>internship</b> or a <b>full-time role</b>. Check out <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">my resume</a>.</p>
+
+
+</pre>
+
+<br><br>
 
 ---
 
-<h2 align="center", color: black">Languages and Tools</h2>
+<!-- SKILL SECTION -->
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-</a>  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<br>
+
+<!-- LENGUAJES -->
+<p align="center">
+
+<!-- FRONTEND SKILLS -->
+
+- **Front-End Development**:
+
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+<!-- ALOJAMIENTOS  -->
+
+- **Cloud Hosting**:
+
+  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+<!-- HERRAMIENTAS Y SOFTWARE -->
+
+- **Softwares and Tools**:
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br>
+
+<!-- ADICIONALES -->
+
+- **Extras**:
+
+  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+</p>
+
+<br>
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<div align="center">
+
+<table>
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Alexander-Salvador&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Salvador&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alexander-Salvador&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+
+</tr>
+</table>
 </div>
 
-<!-- <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://camo.githubusercontent.com/15e9fab2ef21e5f5c91450da7dc0c9a41a27b2ef708d5fec86f46fcb0a2a0f73/68747470733a2f2f692e696d6775722e636f6d2f50704c6544334b2e706e67" data-canonical-src="https://i.imgur.com/PpLeD3K.png" style="max-width: 100%;"> -->
+<br>
 
-<!-- <details open="">
-  <summary><div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📘 My Top Open Source Projects</h2><a id="user-content--my-top-open-source-projects" class="anchor" aria-label="Permalink: 📘 My Top Open Source Projects" href="#-my-top-open-source-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div></summary>
+---
+
+<br><br>
 
 
-  <p align="left" dir="auto">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://camo.githubusercontent.com/c81b809c50565a7d98000378c13de2dae6f6074c517ca41bf0e1b36b2883bf4d/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d44656e766572436f64657231267265706f3d726561646d652d747970696e672d737667267468656d653d72656163742662675f636f6c6f723d314632323245267469746c655f636f6c6f723d46383544374626686964655f626f726465723d747275652669636f6e5f636f6c6f723d4638443836362673686f775f69636f6e733d66616c7365" alt="readme-typing-svg" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&amp;repo=readme-typing-svg&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;show_icons=false" style="max-width: 100%;"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://camo.githubusercontent.com/04919b09a0ab6319dbf62c6ae24f37e031ece12f01dbf67ed74b39ba7b371da0/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d44656e766572436f64657231267265706f3d6769746875622d726561646d652d73747265616b2d7374617473267468656d653d72656163742662675f636f6c6f723d314632323245267469746c655f636f6c6f723d46383544374626686964655f626f726465723d747275652669636f6e5f636f6c6f723d4638443836362673686f775f69636f6e733d66616c7365" alt="github-readme-streak-stats" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&amp;repo=github-readme-streak-stats&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;show_icons=false" style="max-width: 100%;"></a>
-    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://camo.githubusercontent.com/25597781ae4601fdf670a839ad7583650dc1c5cad226e83a6ab38263d4199ed8/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e3f757365726e616d653d44656e766572436f64657231267265706f3d637573746f6d2d69636f6e2d626164676573267468656d653d72656163742662675f636f6c6f723d314632323245267469746c655f636f6c6f723d46383544374626686964655f626f726465723d747275652669636f6e5f636f6c6f723d4638443836362673686f775f69636f6e733d66616c7365" alt="custom-icon-badges" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&amp;repo=custom-icon-badges&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;show_icons=false" style="max-width: 100%;"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://camo.githubusercontent.com/12437964e84b654869d49f9b755abc0f3a01873a73d24da6d92600274189c1ce/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d44656e766572436f64657231267265706f3d6769746875622d726561646d652d796f75747562652d6361726473267468656d653d72656163742662675f636f6c6f723d314632323245267469746c655f636f6c6f723d46383544374626686964655f626f726465723d747275652669636f6e5f636f6c6f723d4638443836362673686f775f69636f6e733d66616c7365" alt="github-readme-youtube-cards" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&amp;repo=github-readme-youtube-cards&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;show_icons=false" style="max-width: 100%;"></a>
-    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://camo.githubusercontent.com/e5143323f131a7e09a83a1c09f67d54345462412c6c748bf06915c5af98ae0d8/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d44656e766572436f64657231267265706f3d756e656469742d666f722d726564646974267468656d653d72656163742662675f636f6c6f723d314632323245267469746c655f636f6c6f723d46383544374626686964655f626f726465723d747275652669636f6e5f636f6c6f723d4638443836362673686f775f69636f6e733d66616c7365" alt="unedit-for-reddit" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&amp;repo=unedit-for-reddit&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;show_icons=false" style="max-width: 100%;"></a>
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://camo.githubusercontent.com/fe2615c6cf75db9e1a8d3e1727fd6af55b91cac304c390c41a71d6b7ef88eaea/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d44656e766572436f64657231267265706f3d756e69636f64652d666f726d6174746572267468656d653d72656163742662675f636f6c6f723d314632323245267469746c655f636f6c6f723d46383544374626686964655f626f726465723d747275652669636f6e5f636f6c6f723d4638443836362673686f775f69636f6e733d66616c7365" alt="unicode-formatter" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&amp;repo=unicode-formatter&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;show_icons=false" style="max-width: 100%;"></a>
-    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://camo.githubusercontent.com/4119e4f970e0e592b707815dd726035fbc8fb7015291091bc41e0eb1f1dcc9ca/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d44656e766572436f64657231267265706f3d6c617465782d67626f6172642d64696374696f6e617279267468656d653d72656163742662675f636f6c6f723d314632323245267469746c655f636f6c6f723d46383544374626686964655f626f726465723d747275652669636f6e5f636f6c6f723d4638443836362673686f775f69636f6e733d66616c73652673686f775f6465736372697074696f6e3d66616c7365" alt="latex-gboard-dictionary" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&amp;repo=latex-gboard-dictionary&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;show_icons=false&amp;show_description=false" style="max-width: 100%;"></a>
-    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://camo.githubusercontent.com/ed626d09fd721c3d85548045fdd18405db56b9ab28312db1a52eb1896365d815/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d44656e766572436f64657231267265706f3d6d696e696d616c69737469632d77616c6c7061706572267468656d653d72656163742662675f636f6c6f723d314632323245267469746c655f636f6c6f723d46383544374626686964655f626f726465723d747275652669636f6e5f636f6c6f723d4638443836362673686f775f69636f6e733d66616c73652673686f775f6465736372697074696f6e3d66616c7365" alt="minimalistic-wallpaper-collection" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&amp;repo=minimalistic-wallpaper&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;show_icons=false&amp;show_description=false" style="max-width: 100%;"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://camo.githubusercontent.com/90b525c5878d14b14dd96a16459edfdd93a5a16e8ad3d6b0ae8ede4ac723f316/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d44656e766572436f64657231267265706f3d7461626c65326173636969267468656d653d72656163742662675f636f6c6f723d314632323245267469746c655f636f6c6f723d46383544374626686964655f626f726465723d747275652669636f6e5f636f6c6f723d4638443836362673686f775f69636f6e733d66616c73652673686f775f6465736372697074696f6e3d66616c7365" alt="table2ascii" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&amp;repo=table2ascii&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;hide_border=true&amp;icon_color=F8D866&amp;show_icons=false&amp;show_description=false" style="max-width: 100%;"></a>
+<!-- CONTACTAME -->
+## <b> Let's Connect..!
+
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:0xalexander_mya@outlook.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Alexander-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<!-- SUPPORT -->
+<div align='center'>
+
+<hr>
+<p>
+  <h3 align="center">Support:</h3>
+  <p>
+    <a href="https://www.buymeacoffee.com/josuerv99">
+      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
+    </a>
   </p>
-<p dir="auto"><a href="https://github.com/DenverCoder1?tab=repositories&amp;sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://camo.githubusercontent.com/39653bd0d1b679e5d32ca88127ba97a27307bbc7d606408b61ae521399f0979c/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d436c69636b25323048657265253230466f72253230416c6c2532304d792532305265706f732d3146323232453f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7265706f" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&amp;logoColor=white&amp;logo=repo" style="max-width: 100%;"></a></p>
-</details> -->
+</p>
