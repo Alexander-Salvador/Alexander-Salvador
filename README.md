@@ -11,32 +11,26 @@
 
 <pre>
 	
-👨‍💻 Frontend Developer
-
+<h3>👨‍💻 Frontend Developer</h3>
 I'm a frontend developer with a deep passion for design and web architecture. 
 I excel in React, JavaScript, and Figma. I have collaborated with companies like Claro Peru and Rappi Colombia, 
 enhancing my communication skills in both remote and in-person environments. Additionally, 
 I have developed and maintained dynamic websites, continuously improving their performance and user experience.
 
-🎓 Education
-
-- Self-taught Student in Frontend Web Development** (January 2024 - Present): 
+<h3>🎓 Education</h3>
+- Self-taught Student in Frontend Web Development (January 2024 - Present): 
 Continuously enhancing and updating my skills in frontend programming.
-- Communication Sciences and Advertising** (February 2016): 
+- Communication Sciences and Advertising (February 2016): 
 Technological University of Peru.
 
-🛠 Skills
-
+<h3>🛠 Skills</h3>
 Main languages: CSS, HTML & JavaScript.
 
-🌐 Career Aspirations
-
+<h3>🌐 Career Aspirations</h3>
 I'm passionate about developing full-stack applications for Machine Learning.
 
-📌 Availability
-
-I'm currently open to new opportunities, whether it's an **internship** or a **full-time role**. 
-Check out [my resume](https://drive.google.com/file/d/1tZtDMRIai7fs-SLMsRz7yEWD861y1j6V/view?usp=sharing).
+<h3>📌 Availability</h3>
+<p>I'm currently open to new opportunities, whether it's an <b>internship</b> or a <b>full-time role</b>. Check out <a href="https://drive.google.com/file/d/1tZtDMRIai7fs-SLMsRz7yEWD861y1j6V/view?usp=sharing" target="_blank">my resume</a>.</p>
 
 </pre>
 
