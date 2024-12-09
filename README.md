@@ -12,10 +12,17 @@
 <pre>
 	
 <h3>👨‍💻 Frontend Developer</h3>
-I'm a frontend developer with a deep passion for design and web architecture. 
-I excel in React, JavaScript, and Figma. I have collaborated with companies like Claro Peru and Rappi Colombia, 
+Hello! Nice to meet you! I'm Alexander, a creativity enthusiast focused on FrontEnd development using:
+HTML, CSS, and JavaScript, the perfect triad! I have developed and maintained static websites with 
+the WordPress CMS, continuously improving their performance and user experience. 
+I consider myself proactive, didactic, and with leadership organizational skills. 
+
+I have a deep passion for design and web architecture, excelling in JavaScript and Figma. 
+I have collaborated with companies like Claro Peru and Rappi Colombia, 
 enhancing my communication skills in both remote and in-person environments. Additionally, 
 I have developed and maintained dynamic websites, continuously improving their performance and user experience.
+
+
 
 <h3>🎓 Education</h3>
 - Self-taught Student in Frontend Web Development (January 2024 - Present): 
