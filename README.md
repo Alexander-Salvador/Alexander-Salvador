@@ -35,9 +35,9 @@ Main languages: CSS, HTML & JavaScript.
 I'm passionate about developing full-stack applications for Machine Learning.
 
 <h3>📌 Availability</h3>
-<p>I'm currently open to new opportunities, whether it's an <b>internship</b> or a <b>full-time role</b>. Check out:
-<a href="https://drive.google.com/file/d/1tZtDMRIai7fs-SLMsRz7yEWD861y1j6V/view?usp=sharing" target="_blank">my resume(EN)🇺🇸</a>.</p>
-<a href="https://drive.google.com/file/d/1tZtDMRIai7fs-SLMsRz7yEWD861y1j6V/view?usp=sharing" target="_blank">my resume(ES)🇪🇸</a>.</p>
+<p>I'm currently open to new opportunities, whether it's an <b>internship</b> or a <b>full-time role</b>. Check out:</p>
+<a href="https://drive.google.com/file/d/1nv-zfFf4WxZBJ6QGRc6k5QkR4riHDaTH/view?usp=sharing" target="_blank">my resume(EN)🇺🇸</a>.
+<a href="https://drive.google.com/file/d/18gTUjA7rTxFXY5xL2r6-3QLJdSUW6_7O/view?usp=sharing" target="_blank">my resume(ES)🇪🇸</a>.
 
 </pre>
 
