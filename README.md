@@ -22,8 +22,6 @@ I have collaborated with companies like Claro Peru and Rappi Colombia,
 enhancing my communication skills in both remote and in-person environments. Additionally, 
 I have developed and maintained dynamic websites, continuously improving their performance and user experience.
 
-
-
 <h3>🎓 Education</h3>
 - Self-taught Student in Frontend Web Development (January 2024 - Present): 
 Continuously enhancing and updating my skills in frontend programming.
@@ -37,7 +35,9 @@ Main languages: CSS, HTML & JavaScript.
 I'm passionate about developing full-stack applications for Machine Learning.
 
 <h3>📌 Availability</h3>
-<p>I'm currently open to new opportunities, whether it's an <b>internship</b> or a <b>full-time role</b>. Check out <a href="https://drive.google.com/file/d/1tZtDMRIai7fs-SLMsRz7yEWD861y1j6V/view?usp=sharing" target="_blank">my resume</a>.</p>
+<p>I'm currently open to new opportunities, whether it's an <b>internship</b> or a <b>full-time role</b>. Check out:
+<a href="https://drive.google.com/file/d/1tZtDMRIai7fs-SLMsRz7yEWD861y1j6V/view?usp=sharing" target="_blank">my resume(EN)🇺🇸</a>.</p>
+<a href="https://drive.google.com/file/d/1tZtDMRIai7fs-SLMsRz7yEWD861y1j6V/view?usp=sharing" target="_blank">my resume(ES)🇪🇸</a>.</p>
 
 </pre>
 
