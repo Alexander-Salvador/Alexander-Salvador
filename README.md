@@ -1,156 +1,152 @@
-<h1 align="center", color="black">Alexander Salvador</h1>
+<h1 align="center">Alexander Salvador</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB8500&center=true&vCenter=true&width=500&lines=Front+End+Web+Developer;Lover+of+creativity+and+brilliant+ideas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB8500&center=true&vCenter=true&width=500&lines=Front-End+Developer+Jr.;Customer+Experience+Specialist;Open+to+Remote+Work)](https://git.io/typing-svg)
 
 </div>
 
-<!-- DESCRIPCION PERSONAL  -->
+---
 
+## 👨‍💻 About Me  
 
-<pre>
-	
-<h3>👨‍💻 Frontend Developer</h3>
-Hello! Nice to meet you! I'm Alexander, a creativity enthusiast focused on FrontEnd development using:
-HTML, CSS, and JavaScript, the perfect triad! I have developed and maintained static websites with 
-the WordPress CMS, continuously improving their performance and user experience. 
-I consider myself proactive, didactic, and with leadership organizational skills. 
+Hello! I’m **Alexander Salvador**, a **Junior Front-End Developer** with a solid background of **5+ years in Customer Experience** for global companies like **Rappi, Glovo, Entel, and Claro**.  
 
-I have a deep passion for design and web architecture, excelling in JavaScript and Figma. 
-I have collaborated with companies like Claro Peru and Rappi Colombia, 
-enhancing my communication skills in both remote and in-person environments. Additionally, 
-I have developed and maintained dynamic websites, continuously improving their performance and user experience.
+💻 I’m currently focused on **Front-End development** (React, JavaScript, HTML, CSS), building scalable, user-friendly, and performance-driven interfaces. My previous experience in customer support sharpened my **communication, problem-solving, and teamwork skills**, which I now apply in product and development teams.  
 
-<h3>🎓 Education</h3>
-- Self-taught Student in Frontend Web Development (January 2024 - Present): 
-Continuously enhancing and updating my skills in frontend programming.
-- Communication Sciences and Advertising (February 2016): 
-Technological University of Peru.
+🚀 Passionate about continuous learning, currently enrolled in **Oracle Next Education (ONE)** (Oracle & Alura Latam Bootcamp), where I’m strengthening my skills in **Front-End, Back-End, Data Science, and Generative AI**.  
 
-<h3>🛠 Skills</h3>
-Main languages: CSS, HTML & JavaScript.
+---
 
-<h3>🌐 Career Aspirations</h3>
-I'm passionate about developing full-stack applications for Machine Learning.
+## 🎯 Career Highlights  
 
-<h3>📌 Availability</h3>
-<p>I'm currently open to new opportunities, whether it's an <b>internship</b> or a <b>full-time role</b>. Check out:</p>
-<a href="https://drive.google.com/file/d/1nv-zfFf4WxZBJ6QGRc6k5QkR4riHDaTH/view?usp=sharing" target="_blank">my resume(EN)🇺🇸</a>.
-<a href="https://drive.google.com/file/d/18gTUjA7rTxFXY5xL2r6-3QLJdSUW6_7O/view?usp=sharing" target="_blank">my resume(ES)🇪🇸</a>.
+- **Customer Experience (5+ years):** Strong background in multichannel support (chat, voice, email), stakeholder management, and issue resolution under pressure.  
+- **Frontend Development:** Building projects with **React, Vite, PNPM, Git/GitHub, and WordPress**. Specialized in creating responsive, accessible, and SEO-friendly websites.  
+- **Freelance (2020–2025):** Designed and developed WordPress websites with Elementor, SEO, and copywriting for local and international clients.  
+- **Key Soft Skills:** Communication, teamwork, stakeholder management, adaptability, and creative problem-solving.  
 
-</pre>
+---
 
-<br><br>
-<!-- SKILL SECTION -->
+## 🚀 Projects  
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+### 🛒 Vitterys — E-commerce  
+An online store in development featuring a category-based catalog, dynamic offers system, and shopping cart. Focused on scalability, performance, and user experience.  
+**Tech:** React, Vite, PNPM, GitHub, Vercel  
+**Repo:** [GitHub Link](https://github.com/Alexander-Salvador/Vittery)  
 
-<br>
+**Skills Applied:**  
+- Front-End Development  
+- Component Architecture & State Management  
+- Responsive Web Design  
+- Git-based Collaboration  
 
-<!-- LENGUAJES -->
+---
+
+### ⏱️ Flowdo — Task Manager  
+A task manager & Pomodoro-style timer app built with **Vanilla JavaScript, Vite, and PNPM**. Focused on productivity and clean UI/UX design.  
+
+---
+
+### 🌐 Freelance WordPress Projects  
+Developed 10+ landing pages and websites using **WordPress + Elementor**, including SEO optimization and performance improvements.  
+
+---
+
+## 🧑‍💼 Work Experience  
+
+### Activando Salud — WordPress / SEO / Tech Support  
+- Designed WordPress websites using Elementor.  
+- Created and customized 10+ landing pages optimized for SEO and performance.  
+- Conducted basic SEO audits, improving meta tags and organic visibility.  
+- Provided client support via chat, voice, and email, delivering troubleshooting and quick guides.  
+
+---
+
+## 🎓 Education  
+
+**Oracle Next Education (ONE) – Bootcamp by Oracle & Alura Latam**  
+- Training in **Front-End (React, JavaScript)**, **Back-End (Java, Spring)**, **Data Science**, **MySQL**, **Oracle Cloud Infrastructure (OCI)**, and **Generative AI**.  
+- Hands-on challenges and portfolio projects.  
+- Soft skills: entrepreneurship, agility, communication, and productivity.  
+- Active participation in Discord, webinars, and AI mentorship.  
+
+---
+
+## 🛠 Tech Stack  
+
 <p align="center">
 
-<!-- FRONTEND SKILLS -->
+**Languages & Front-End**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- **Front-End Development**:
+**Tools & Package Managers**  
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+**CMS & SEO**  
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-%23B83B5E.svg?style=for-the-badge&logo=elementor&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
 
-<br>
-
-<!-- ALOJAMIENTOS  -->
-
-- **Cloud Hosting**:
-
-  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-<!-- HERRAMIENTAS Y SOFTWARE -->
-
-- **Softwares and Tools**:
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br>
-
-<!-- ADICIONALES -->
-
-- **Extras**:
-
-  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+**Other Tools**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </p>
 
-<br>
-<br>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## 📊 GitHub Stats  
 
 <div align="center">
 
 <table>
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Alexander-Salvador&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Salvador&theme=dark&hide_border=false" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexander-Salvador&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Salvador&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alexander-Salvador&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alexander-Salvador&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+</td>
 </tr>
 </table>
+
 </div>
 
-<br>
+---
 
-<br><br>
-
-
-<!-- CONTACTAME -->
-## <b> Let's Connect..!
-
-<br>
-<div align='left'>
+## 🤝 Let’s Connect  
 
 <ul>
-
 <li>
 <a href="https://www.linkedin.com/in/alexander-salvador-dev/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  AlexanderSalvador-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  AlexanderSalvador-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
-
 
 <li>
-<a href="mailto:alexander_mya@outlook.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Alexander-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:alexander.salvador.dev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email:  Alexander-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </li>
-	
 </ul>
-</div>
 
-<!-- SUPPORT -->
+---
+
 <div align='center'>
 
-<hr>
-<p>
-  <h3 align="center">Support:</h3>
-  <p>
-    <a href="https://buymeacoffee.com/alexandersalvador">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
-    </a>
-  </p>
-</p>
+<h3>☕ Support My Work</h3>
+
+<a href="https://buymeacoffee.com/alexandersalvador">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
+</a>
+
+</div>
